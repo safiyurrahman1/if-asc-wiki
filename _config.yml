@@ -22,8 +22,8 @@ title: IF-AutoStepClimb
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   The offical wiki for IF-AutoStepClimb, a third-party application built for Infinite Flight
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/if-asc-wiki" # the subpath of your site, e.g. /blog
+url: "https://safiyurrahman1.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: safiyurrahman
 
