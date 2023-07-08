@@ -11,7 +11,7 @@ layout: page
 
 ## Introduction
 
-After about two weeks of losing braincells, I introduce you to Auto Step Climb for Android - a bare-bones, simple application that automates the process of step-climbing. And what's more? **It's free and open source!** (dont roast my code too much its my first mobile development project)
+After about two weeks of losing braincells, I introduce you to Auto Step Climb for Android - a bare-bones, simple application that automates the process of step-climbing. And what's more? **It's free!**
 
 ## So, what is it?
 
