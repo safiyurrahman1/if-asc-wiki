@@ -13,6 +13,8 @@ You may need to enable `Install from unknown sources` or something similar to in
 
 After installation, close and relaunch the app twice to get the latest update.
 
+Please take a look at [Don't Kill My App](https://dontkillmyapp.com/) and follow the instructions applicable to your device. This is because Android likes to kill background tasks to save battery life, which can prevent IF-ASC from working.
+
 If you are using Android 13 or above, remember to enable notification permission for this app. Otherwise you will not be able to see any notifications sent by the app.
 
 # iOS
