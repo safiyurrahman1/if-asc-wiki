@@ -7,7 +7,7 @@ permalink: /download/
 # Android
 
 Download the APK file here:
-[Click to Download](/IF_ASG_v1.3.apk).
+[Click to Download](/IF_ASC_v1.3.apk).
 
 You may need to enable `Install from unknown sources` or something similar to install.
 
