@@ -7,13 +7,13 @@ permalink: /download/
 # Android
 
 Download the APK file here:
-[Click to Download](/IF_ASG_v1.2.apk).
+[Click to Download](/IF_ASG_v1.3.apk).
 
 You may need to enable `Install from unknown sources` or something similar to install.
 
 After installation, close and relaunch the app twice to get the latest update.
 
-If you are using Android 13 or above, remember to enable notification permission for this app. Otherwise you will not be able to see any notifications sent by the app.
+~~If you are using Android 13 or above, remember to enable notification permission for this app. Otherwise you will not be able to see any notifications sent by the app.~~ Not required from `v1.3.0`.
 
 # iOS
 
